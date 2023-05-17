@@ -10,6 +10,6 @@
 - ⚡ As a master’s student specializing in Robotics and Controls, I’ve done projects exploring different motion planning, control, trajectory optimization and estimation techniques for safe autonomous systems. Please check out my different projects from my github profile!
 
 - 📫 How to reach me: vvuppari@ucsd.edu, +18583195795
-- 
+
 - 😄 Pronouns: He/Him
 
