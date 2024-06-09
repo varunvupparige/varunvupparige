@@ -3,7 +3,7 @@
 
 - 🌱 I am a passionate robotics engineer with more than 3 years of experience in embedded software programming, designing electro-mechanical systems, and industrial prototyping, with a profound interest in Motion Planning and Controls.
 
-- 🔭 During my graduate studies, I worked at the Autonomous Vehicle Lab headed by Dr. Henrik Christensen on obstacle avoidance and overtaking using a Gaussian Process Motion Planner. ([AVL](https://github.com/AutonomousVehicleLaboratory/obstacle-overtaking-gpmp2)
+- 🔭 During my graduate studies, I worked at the Autonomous Vehicle Lab headed by Dr. Henrik Christensen on obstacle avoidance and overtaking using a Gaussian Process Motion Planner. ([AVL])(https://github.com/AutonomousVehicleLaboratory/obstacle-overtaking-gpmp2)
 
 - 👯 I developed a keen interest in product development while working in a Formula SAE team during my undergrad at RV College of Engineering, Bengaluru. My professional industry experience at Noccarc Robotics, an early-stage startup making ICU ventilators, in a fast-paced, innovation-driven environment has laid a strong foundation in product development. These experiences of solving diverse problems through computational and experimental approaches have deepened my understanding of building products and solving engineering problems 
 
