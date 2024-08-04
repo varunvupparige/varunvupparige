@@ -1,7 +1,7 @@
 
 👋 Hi, I’m Varun Vupparige ([LinkedIn](https://www.linkedin.com/in/varunvupparige/)), a System Controls Engineer at Nexteer Automotive. I develop control algorithms for Steer-by-wire systems. I completed my master's degree in Controls and Robotics from the University of California, San Diego. Outside of work, I love cooking, watching soccer and playing badminton.
 
-- 🌱 I am a Controls and Robotics engineer with more than 3 years of industry experience in designing, developing, testing, and deploying more than five products across diverse sectors including Robotics, Medical, Automation, and Automotive. I'm passionate about developing and deploying real-world autonomous systems that contribute to the greater good!
+- 🌱 I am a Controls and Robotics engineer with more than 4 years of industry experience in designing, developing, testing, and deploying more than five products across diverse sectors including Robotics, Medical, Automation, and Automotive. I'm passionate about developing and deploying real-world autonomous systems that contribute to the greater good!
 
 - 🔭 During my graduate studies, I worked at the Autonomous Vehicle Lab headed by Dr. Henrik Christensen on obstacle avoidance and overtaking using a Gaussian Process Motion Planner. ([AVL](https://github.com/AutonomousVehicleLaboratory/obstacle-overtaking-gpmp2))
 
