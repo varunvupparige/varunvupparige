@@ -11,5 +11,3 @@
 
 - 📫 How to reach me: vvuppari@ucsd.edu, +18583195795
 
-- 😄 Pronouns: He/Him
-
