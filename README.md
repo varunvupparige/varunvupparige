@@ -7,7 +7,7 @@
 
 - 👯 I developed a keen interest in product development while working in a Formula SAE team during my undergrad at RV College of Engineering, Bengaluru. My professional industry experience at Noccarc Robotics, an early-stage startup making ICU ventilators (featured in the book "[The Ventilator Project](https://www.amazon.com/Ventilator-Project-S-Srikant-Sastri/dp/9389104661)"), in a fast-paced, innovation-driven environment has laid a strong foundation in product development. These experiences of solving diverse problems through computational and experimental approaches have deepened my understanding of building products and solving engineering problems 
 
-- ⚡ As a master’s student specializing in Robotics and Controls, I’ve done projects exploring different motion planning, controls, trajectory optimization, stability analysis and state estimation techniques for safe autonomous systems. Please check out different projects from my GitHub profile!
+- ⚡ During my master’s degree, I specialized in Robotics and Controls and I’ve done projects exploring different motion planning, controls, trajectory optimization, stability analysis and state estimation techniques for safe autonomous systems. Please check out different projects from my GitHub profile!
 
 - 📫 How to reach me: vvuppari@ucsd.edu, +18583195795
 
