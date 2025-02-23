@@ -9,5 +9,5 @@
 
 - ⚡ During my master’s degree, I specialized in Robotics and Controls and I’ve done projects exploring different motion planning, controls, trajectory optimization, stability analysis and state estimation techniques for safe autonomous systems. Please check out different projects from my GitHub profile!
 
-- 📫 How to reach me: vvuppari@ucsd.edu, +18583195795
+- 📫 How to reach me: varunvupparige@gmail.com, +18583195795
 
